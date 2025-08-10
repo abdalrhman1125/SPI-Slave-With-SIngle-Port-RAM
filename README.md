@@ -60,7 +60,7 @@ The design has been evaluated under different state encoding schemes to achieve 
 - **HDL**: Verilog
 - **Synthesis Tool**: Xilinx Vivado
 - **Target Platform**: FPGA (Xilinx)
-- **Simulation**: Vivado Simulator
+- **Simulation**: Questa Sim
 
 ## 👨‍💻 Author
 
